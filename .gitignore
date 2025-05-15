@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+venv/
+.env
+
+# FAISS Index
+faiss_index/
+
+# Streamlit
+.streamlit/
+
+# Misc
+.DS_Store
